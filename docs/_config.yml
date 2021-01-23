@@ -27,7 +27,7 @@ url: "https://jennalc.github.io" # the base hostname & protocol for your site, e
 github_username:  jennalc
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
