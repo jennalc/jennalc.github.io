@@ -42,4 +42,4 @@ When I am not at the computer, I am spending time with my husband and chasing af
 
 If you'd like to connect, reach out to me on LinkedIn. I'd love to hear from you!
 
-**LinkedIn:** [Jenna Lau-Caurso](www.linkedin.com/in/jenna-lau-caruso)
+**LinkedIn:** [Jenna Lau-Caurso](https://www.linkedin.com/in/jenna-lau-caruso)

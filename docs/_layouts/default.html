@@ -18,6 +18,7 @@
         <meta name="theme-color" content="#157878">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <script src="https://kit.fontawesome.com/95370d104a.js" crossorigin="anonymous"></script>
     </head>
     <body>
 
@@ -30,10 +31,19 @@
 
     <main id="content" class="main-content" role="main">
         {{ content }}
-        <footer class="site-footer">
-            <!-- {% if site.github.is_project_page %}
-            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-            {% endif %} -->
+        <!-- <footer class="site-footer"> -->
+        <footer>
+            <hr style="height:1px;border:none;color:#008080;background-color:#008080;" />
+            <p style="text-align: center;">
+                <a href="https://www.linkedin.com/in/{{ site.linkedin_id }}">
+                    <i class="fab fa-linkedin fa-2x"> </i>
+                </a>
+                <a href="https://github.com/{{ site.github_username }}">
+                    <span style="color: black">
+                        <i class="fab fa-github fa-2x"> </i>
+                    </span>
+                </a>
+            </p>
         </footer>
     </main>
   </body>
