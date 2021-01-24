@@ -2,11 +2,12 @@
 layout: post
 author: Jenna Lau-Caruso
 title: "Welcome to my Jekyll Blog"
+description: First blog entry! An introduction to this site.
 ---
 
 This weekend I set out to create a space where I could share thoughts and experiences gained from working in this industry. 
-I've created this site is hosted by GitHub Pages, and created using Jekyll. The framework is blog-aware, and allows you to write
-content in markdown and have it rendered in a variety of themes provided by jekyll. If you're interested, check out the GitHub documentation at [https://pages.github.com/](https://pages.github.com/).
+I chose to host this site on GitHub Pages, and created it using Jekyll. The framework is blog-aware, and allows you to write
+content in markdown and have it rendered in a variety of themes. If you're interested, check out the GitHub documentation at [https://pages.github.com/](https://pages.github.com/) and the Jekyll documentation at [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/).
 
 I hope you will check out the content as I post it, and that you may find it interesting and useful.
 

@@ -1,0 +1,10 @@
+github:
+  id: "jennalc"
+  href: "https://github.com/"
+  title: github
+  fa-icon: "fa-github-square"
+linkedin:
+  id: "jenna-lau-caruso"
+  href: "www.linkedin.com/in"
+  title: linkedin
+  fa-icon: "fa-linkedin-square"

@@ -10,7 +10,7 @@ permalink: /about/
 
 My name is Jenna Lau-Caruso. 
 
-For the past 15 years, I have worked in software development with roles including:
+Since 2006, I have worked in software development with roles including:
 
 - Quality Assurance
 - Test Automation

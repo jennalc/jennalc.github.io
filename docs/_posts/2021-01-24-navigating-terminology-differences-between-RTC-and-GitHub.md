@@ -2,6 +2,7 @@
 layout: post
 author: Jenna Lau-Caruso
 title: "Navigating Terminology Differences Between RTC and GitHub"
+description: "Examining the different spoken languages used to refer to similar source code concepts in Rational Team Concert and GitHub."
 ---
 
 Having spent many years using Rational Team Concert (RTC) for all of my source control needs, I have recently dipped my toe into the GitHub world.
