@@ -2,7 +2,7 @@
 layout: post
 author: Jenna Lau-Caruso
 title: "Welcome to my Jekyll Blog"
-description: First blog entry! An introduction to this site.
+blog_description: First blog entry! An introduction to this site.
 ---
 
 This weekend I set out to create a space where I could share thoughts and experiences gained from working in this industry. 
