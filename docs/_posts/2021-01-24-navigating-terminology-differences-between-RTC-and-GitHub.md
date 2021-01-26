@@ -29,7 +29,7 @@ Accept Pending Changes | Pull
 
 #### RTC
 
-In RTC, to work with source code locally, you must first create a *repository workspace*, selecting the *stream* with which you want to flow. A repository workspace is your private copy of the source code. It is initially created on the server and can be *loaded* into your local sandbox. The selected stream indicates which version of the source code you want to work with. For example, your project may have separate streams for each release track.
+In RTC, to work with source code locally, you must first create a *repository workspace*, selecting the *stream* with which you want to flow. A repository workspace is your private copy of the source code. It is initially created on the server and can be *loaded* onto your workstation, which is referred to as your sandbox. The selected stream indicates which version of the source code you want to work with. For example, your project may have separate streams for each release track.
 
 
 #### GitHub
@@ -61,7 +61,7 @@ In Git, the concepts are very similar, but the language used to describe the flo
 When working on an *issue* in Git, the best practice is to create a *branch* for the change. In this context, the branch is a short-living artifact intended to contain your changes until they can be merged into the *upstream branch*. A branch can either be created from the Git web interface, making it immediately visible to others working in the repository, or it can be created locally. To add changes to your branch, you *commit* the changes. Unlike in RTC, each commit is tracked with a message describing the contents of the commit. Committing code to a branch does not update the server-side copy of the branch. To do this, you must also *push* the changes to the branch.
 
 
-To have the code reviewed and merge it into the upstream branch, you will need to create a *pull request*, selecting the branch you want to merge code into as the *base* and the branch containing your change as the *compare*.  The pull request is used to track technical discussions about the code as well as code review status. Once the code is reviewed, if there are no conflicts, you will be able to *merge* it into the upstream branch. GitHub will automatically prompt you to delete the branch at this time. You should create a new one for your next change.
+To have the code reviewed and merge it into the upstream branch, you will need to create a *pull request*, selecting the branch you want to merge code into as the *base* and the branch containing your change as the *compare*.  The pull request is used to track technical discussions about the code as well as code review status. Once the code is reviewed and approved you can *merge* into the upstream branch. GitHub will automatically prompt you to delete the branch at this time. For additional changes, a new branch should be created.
 
 
 #### Note
@@ -82,7 +82,7 @@ Assuming that you are collaborating on a project, you will periodically need to 
 #### RTC
 
 
-To see if your local sandbox is up to date, *refresh* the *pending changes* view in the Eclipse IDE. All change sets in the stream which are not in your repository workspace will be listed. From here, you can *Accept8 all incoming change sets, or can accept specific change sets. Accepting the change sets will merge the change sets from the stream into your repository workspace. If there are any conflicts, you will need to resolve them.
+To see if your local sandbox is up to date, *refresh* the *pending changes* view in the Eclipse IDE. All change sets in the stream which are not in your repository workspace will be listed. From here, you can *accept* all incoming change sets, or can accept specific change sets. Accepting the change sets will merge the change sets from the stream into your repository workspace. If there are any conflicts, you will need to resolve them.
 
 
 #### GitHub
