@@ -10,7 +10,7 @@ Having spent the majority of my professional years using Rational Team Concert (
 
 After learning the GitHub vocabulary, the two systems are actually very similar. I hope this rough translation between the two can help other developers who may be struggling to move from one to the other.
 
-## Terimology Mapping
+## Terminology Mapping
 
 Initially, I found it easiest to begin by mapping the terminology in RTC to the terminology in Git. The mapping is not exact, as each system has its own nuances which I will explore in detail later. But to start, here is the rough translation that helped to shape my understanding:
 
